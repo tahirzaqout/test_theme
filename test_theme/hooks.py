@@ -7,7 +7,7 @@ app_description = "Test Theme"
 app_icon = "a"
 app_color = "a"
 app_email = "a"
-app_license = "MIT"
+app_license = "a"
 
 # Includes in <head>
 # ------------------
